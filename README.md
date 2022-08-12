@@ -1,2 +1,2 @@
-# Olá Mundo
- Primeiro repositório do curso de Git Github do curso em vídeo, guanabara
+# Olá, Mundo
+ Primeiro repositório do curso de Git Github, curso em vídeo, Guanabara
